@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="panjang">Panjang</string>
+    <string name="masukkan_panjang">Masukkan panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="masukkan_lebar">Masukkan lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="masukkan_tinggi">Masukkan tinggi</string>
+</resources>
